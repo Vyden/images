@@ -2,9 +2,9 @@
 
 }
 
-.header{
+/*.header{
     margin: 10px 0 20px 10px;
-    /*border: 1px solid black;*/x
+    border: 1px solid black;x
 }
 
 .header a {
@@ -18,4 +18,9 @@
 
 .header a:hover {
         color: #4CAF50
+}*/
+
+.Container img{
+    width: 50%;
+    height: 50%;
 }
