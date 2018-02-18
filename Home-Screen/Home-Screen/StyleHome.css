@@ -1,0 +1,21 @@
+﻿body {
+
+}
+
+.header{
+    margin: 10px 0 20px 10px;
+    /*border: 1px solid black;*/x
+}
+
+.header a {
+        float: right;
+        font-size: 18px;
+        padding: 70px 10px 10px 10px;
+        color: #00BCD4;
+        text-decoration: none;
+}
+
+
+.header a:hover {
+        color: #4CAF50
+}
